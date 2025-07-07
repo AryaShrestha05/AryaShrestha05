@@ -22,10 +22,12 @@
 
 ---
 
-![my-whole-life-is-consistent-shai-aura](https://github.com/user-attachments/assets/58e5e6a4-45c6-41c9-9faf-508e40eb079b)
+<p align="center">
+  <strong style="font-size: 24px;">My Whole Life is Consistent: </strong>
+</p>
 
 <p align="center">
-  <strong>My Whole Life is Consistent</strong>
+  ![my-whole-life-is-consistent-shai-aura](https://github.com/user-attachments/assets/58e5e6a4-45c6-41c9-9faf-508e40eb079b)
 </p>
 
 
