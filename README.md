@@ -19,11 +19,10 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/lbyyv7A9H3EAAAAC/shai-aura-sga-aura.gif" width="400" alt="My whole life is consistent" />
+  <img src="https://media.tenor.com/lbyyv7A9H3EAAAAC/shai-aura-sga-aura.gif" alt="Shai Aura SGA GIF" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaShrestha05&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AryaShrestha05&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 </p>
 
