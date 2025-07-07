@@ -1,6 +1,6 @@
 <div style="background-color:#1e1e1e;padding:20px;border-radius:10px;font-family:monospace;box-shadow:0 4px 12px rgba(0,0,0,0.4);">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FEEF&center=false&vCenter=true&multiline=true&repeat=false&width=600&lines=$+Who+Am+I%3F%5Cn$+I'm+Arya+Shrestha" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=6000&pause=1000&color=00FEEF&center=false&vCenter=true&multiline=true&repeat=false&width=600&lines=$+Who+Am+I%3F%5Cn$+I'm+Arya+Shrestha" 
     alt="Terminal Typing SVG"
   />
 </div>
@@ -28,11 +28,12 @@
 
 ---
 
+
+<h3 align="center">My Whole Life is Consistent</h3>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/02baf796-cf9a-43af-a3b8-60e4ec3a4948" width="400" alt="My Whole Life is Consistent GIF" />
 </p>
-
-<h3 align="center">My Whole Life is Consistent</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AryaShrestha05&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
