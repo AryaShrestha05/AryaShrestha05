@@ -19,8 +19,13 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/lbyyv7A9H3EAAAAC/shai-aura-sga-aura.gif" alt="Shai Aura SGA GIF" width="400" />
+  <img src="https://media.tenor.com/lbyyv7A9H3EAAAAC/shai-aura-sga-aura.gif" alt="Shai GIF" width="400" />
 </p>
+
+<p align="center">
+  <strong>My Whole Life is Consistent</strong>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AryaShrestha05&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
