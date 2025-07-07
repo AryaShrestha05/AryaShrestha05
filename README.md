@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/IwMGMJ_TzvUAAAAC/shai-aura-sga-aura.gif" alt="Shai Aura GIF" width="400" />
+  <img src="https://media.tenor.com/um8u8XuyuwIAAAAC/my-whole-life-is-consistent-shai-aura.gif" alt="My Whole Life is Consistent GIF" width="400" />
 </p>
 
 <p align="center">
