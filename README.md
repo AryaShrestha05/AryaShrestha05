@@ -1,35 +1,37 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Who+Am+I%3F;I'm+Arya+Shrestha" alt="Typing SVG" />
-</p>
+<div style="background-color:#1e1e1e;padding:20px;border-radius:10px;font-family:monospace;box-shadow:0 4px 12px rgba(0,0,0,0.4);">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FEEF&center=false&vCenter=true&multiline=true&repeat=false&width=600&lines=$+Who+Am+I%3F%5Cn$+I'm+Arya+Shrestha" 
+    alt="Terminal Typing SVG"
+  />
+</div>
+
 <br>
 
+<div align="left" style="font-size: 18px; line-height: 1.6;">
+  🎓 <strong style="font-size: 20px;">Computer Science</strong> @ <a href="https://www.marist.edu/" target="_blank"><strong>Marist University</strong></a><br>
+  💡 My interests lie in the fields of <strong>Software Engineering</strong>, <strong>Data Science</strong>, and <strong>Machine Learning</strong><br>
+  📍 Based in New York
+</div>
 
-🎓 **Computer Science** @ [Marist University](https://www.marist.edu/)  
-💡 My interests lie in the fields of **Software Engineering**, **Data Science**, and **Machine Learning**  
-📍 Based in New York 
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arya-shrestha-61a84b292/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/arya-shrestha-61a84b292/" target="_blank" style="margin-right: 12px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="28" />
   </a>
   <a href="mailto:arya.shrestha1@marist.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" />
   </a>
-  <a href="https://github.com/AryaShrestha05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
+
 
 ---
 
 <p align="center">
-  <strong style="font-size: 24px;">My Whole Life is Consistent: </strong>
+  <img src="https://github.com/user-attachments/assets/02baf796-cf9a-43af-a3b8-60e4ec3a4948" width="400" alt="My Whole Life is Consistent GIF" />
 </p>
 
-<p align="center">
-  ![my-whole-life-is-consistent-shai-aura](https://github.com/user-attachments/assets/58e5e6a4-45c6-41c9-9faf-508e40eb079b)
-</p>
-
+<h3 align="center">My Whole Life is Consistent</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AryaShrestha05&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
@@ -104,9 +106,3 @@
 - 🌐 [linkedin.com/in/arya-shrestha-61a84b292](https://www.linkedin.com/in/arya-shrestha-61a84b292)  
 - 🧑‍💻 [github.com/AryaShrestha05](https://github.com/AryaShrestha05)
 
----
-
-<p align="center">
-  <i>“My whole life is consistent.”</i><br />
-  <strong>Driven by curiosity. Built by code. Focused on impact.</strong>
-</p>
