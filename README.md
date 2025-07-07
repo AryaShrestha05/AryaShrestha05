@@ -1,13 +1,40 @@
-# I'm Arya
+### I'm Arya
 
-🎓 **Computer Science Major** @ [Marist College](https://www.marist.edu/)  
-🔍 Passionate about **Software Development**, **Data Science**, and **Machine Learning**  
-🌐 [LinkedIn](https://www.linkedin.com/in/arya-shrestha-61a84b292/) | 📄 [Resume](mailto:arya.shrestha1@marist.edu) | 💻 [GitHub](https://github.com/AryaShrestha05)  
-📍 Based in New York
+🎓 **Computer Science Major** @ [Marist University](https://www.marist.edu/)  
+💡 My interests lie on the fields of **Software Engineering**, **Data Science**, and **Machine Learning**  
+📍 Based in New York 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arya-shrestha-61a84b292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arya.shrestha1@marist.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AryaShrestha05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+<p align="center">
+  <img src="https://media.tenor.com/lbyyv7A9H3EAAAAC/shai-aura-sga-aura.gif" width="400" alt="My whole life is consistent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryaShrestha05&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AryaShrestha05&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaShrestha05&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+
+## Tech Stack
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
@@ -27,74 +54,51 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### ✨ GSAP Animation Portfolio Site
-> [Live Demo](https://gsap-showcase-arya.vercel.app/) • Interactive website built with **GSAP** and **React**  
-- 🎬 Smooth page transitions and scroll-triggered animations  
-- 🧠 Demonstrates front-end creativity and performance optimization  
-- 💡 Built with React, TailwindCSS, and GSAP for animation orchestration  
+### ✨ GSAP Showcase Website
+> [🌐 Live Site](https://gsap-showcase-arya.vercel.app/)  
+> Scroll-based animations and creative React visuals  
+- Used GSAP + TailwindCSS + React  
+- Optimized for speed and interactivity
 
 ### 🏡 Predictive Analytics for Housing Prices
-> Built and optimized a polynomial regression model using a Kaggle dataset with 5000+ records.  
-- 🧮 Implemented gradient descent for cost optimization  
-- 📊 Created interactive charts with Matplotlib for data visualization  
-- 💡 Engineered new feature variables for better model interpretability
+> Kaggle-powered polynomial regression model to predict market values.  
+- Implemented gradient descent, improved accuracy by 15%  
+- Created interactive charts using Matplotlib  
+- Built with Python, NumPy, Pandas  
 
-### 🧠 Machine Learning Tumor Classifier
-> A classifier that predicts tumor malignancy with 92% accuracy.  
-- 📈 Logistic regression + feature scaling = faster training  
-- 🔍 Cross-validation used to reduce overfitting
-
-### 💊 Scalable Pharmacy Management System
-> End-to-end desktop app for a startup pharmaceutical business  
-- 🖥️ GUI: Tkinter + PySimpleGUI  
-- 🗃️ MySQL integration with RBAC-based security  
-- ⚡ 95% faster data retrieval via optimized queries
+### 🧠 Tumor Classification ML Model
+> Logistic regression to classify tumors (benign vs. malignant) with 92% accuracy.  
+- Used cross-validation and feature scaling  
+- Reduced training time by 20%  
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Currently Exploring
 
-- Advanced Machine Learning  
-- Full-stack Development with React & Node.js  
-- Algorithmic Trading & Quantitative Finance  
+- Full-stack web apps (React + Node.js + SQL)  
+- Advanced Machine Learning & Model Optimization  
+- Quantitative Finance & Algorithmic Trading  
 
 ---
 
 ## 🏅 Certifications
 
-- ✅ Supervised Machine Learning (Stanford | Deeplearning.AI) – *Jan 2025*  
-- ✅ Python for Data Science (Kaggle) – *Jul 2024*
+- 📜 Supervised Machine Learning – Stanford (Deeplearning.AI), *Jan 2025*  
+- 📜 Python for Data Science – Kaggle, *Jul 2024*  
 
 ---
 
-## 💼 Leadership & Community
+## 📫 Let’s Connect
 
-- 🏢 Vice President, Leo Hall Residence Hall Council – Marist  
-- 📊 Member, Marist Analytics Club | 💻 Computer Science Society | 🔐 Cybersecurity Club  
-- 🏀 Intramural Basketball Player  
+- 📬 [arya.shrestha1@marist.edu](mailto:arya.shrestha1@marist.edu)  
+- 🌐 [linkedin.com/in/arya-shrestha-61a84b292](https://www.linkedin.com/in/arya-shrestha-61a84b292)  
+- 🧑‍💻 [github.com/AryaShrestha05](https://github.com/AryaShrestha05)
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaShrestha05&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AryaShrestha05&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+  <i>“My whole life is consistent.”</i><br />
+  <strong>Driven by curiosity. Built by code. Focused on impact.</strong>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaShrestha05&layout=compact&theme=tokyonight" height="180" />
-</p>
-
----
-
-## 📫 Get In Touch
-
-- 📧 Email: [arya.shrestha1@marist.edu](mailto:arya.shrestha1@marist.edu)  
-- 💬 Always open to collaborations, internships, and tech talks!
-
----
-
-_“Driven by curiosity. Built by code. Focused on impact.”_
