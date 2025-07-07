@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/lbyyv7A9H3EAAAAC/shai-aura-sga-aura.gif" alt="Shai GIF" width="400" />
+  <img src="https://media.tenor.com/IwMGMJ_TzvUAAAAC/shai-aura-sga-aura.gif" alt="Shai Aura GIF" width="400" />
 </p>
 
 <p align="center">
