@@ -4,8 +4,8 @@
 <br>
 
 
-🎓 **Computer Science ** @ [Marist University](https://www.marist.edu/)  
-💡 My interests lie on the fields of **Software Engineering**, **Data Science**, and **Machine Learning**  
+🎓 **Computer Science** @ [Marist University](https://www.marist.edu/)  
+💡 My interests lie in the fields of **Software Engineering**, **Data Science**, and **Machine Learning**  
 📍 Based in New York 
 
 <p align="center">
@@ -22,9 +22,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/um8u8XuyuwIAAAAC/my-whole-life-is-consistent-shai-aura.gif" alt="My Whole Life is Consistent GIF" width="400" />
-</p>
+![my-whole-life-is-consistent-shai-aura](https://github.com/user-attachments/assets/58e5e6a4-45c6-41c9-9faf-508e40eb079b)
 
 <p align="center">
   <strong>My Whole Life is Consistent</strong>
