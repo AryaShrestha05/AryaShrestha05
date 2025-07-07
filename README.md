@@ -7,22 +7,23 @@
 
 <br>
 
-<div align="left" style="font-size: 18px; line-height: 1.6;">
-  🎓 <strong style="font-size: 20px;">Computer Science</strong> @ <a href="https://www.marist.edu/" target="_blank"><strong>Marist University</strong></a><br>
+<div align="left" style="font-size: 22px; font-weight: 500; line-height: 1.8;">
+  🎓 <strong style="font-size: 24px;">Computer Science</strong> @ <a href="https://www.marist.edu/" target="_blank"><strong>Marist University</strong></a><br>
   💡 My interests lie in the fields of <strong>Software Engineering</strong>, <strong>Data Science</strong>, and <strong>Machine Learning</strong><br>
   📍 Based in New York
 </div>
 
 <br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/arya-shrestha-61a84b292/" target="_blank" style="margin-right: 12px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="28" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/arya-shrestha-61a84b292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:arya.shrestha1@marist.edu">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="28" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-</div>
+</p>
+
 
 
 ---
@@ -100,9 +101,7 @@
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Reach Out!
 
 - 📬 [arya.shrestha1@marist.edu](mailto:arya.shrestha1@marist.edu)  
 - 🌐 [linkedin.com/in/arya-shrestha-61a84b292](https://www.linkedin.com/in/arya-shrestha-61a84b292)  
-- 🧑‍💻 [github.com/AryaShrestha05](https://github.com/AryaShrestha05)
-
