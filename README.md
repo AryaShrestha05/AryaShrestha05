@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Who+Am+I%3F;I'm+Arya+Shrestha" alt="Typing SVG Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Who+Am+I%3F;I'm+Arya+Shrestha" alt="Typing SVG" />
 </p>
+<br>
 
 
 🎓 **Computer Science ** @ [Marist University](https://www.marist.edu/)  
