@@ -1,4 +1,6 @@
-### I'm Arya
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Who+Am+I%3F;I'm+Arya+Shrestha" alt="Typing SVG Header" />
+</p>
 
 🎓 **Computer Science Major** @ [Marist University](https://www.marist.edu/)  
 💡 My interests lie on the fields of **Software Engineering**, **Data Science**, and **Machine Learning**  
