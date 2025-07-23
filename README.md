@@ -74,16 +74,6 @@
 - Used GSAP + TailwindCSS + React  
 - Optimized for speed and interactivity
 
-### 🏡 Predictive Analytics for Housing Prices
-> Kaggle-powered polynomial regression model to predict market values.  
-- Implemented gradient descent, improved accuracy by 15%  
-- Created interactive charts using Matplotlib  
-- Built with Python, NumPy, Pandas  
-
-### 🧠 Tumor Classification ML Model
-> Logistic regression to classify tumors (benign vs. malignant) with 92% accuracy.  
-- Used cross-validation and feature scaling  
-- Reduced training time by 20%  
 
 ---
 
